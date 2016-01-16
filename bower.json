@@ -1,0 +1,16 @@
+{
+  "name": "rails_angular",
+  "version": "0.0.0",
+  "authors": [
+    "Nikolas Davis <nikdavis@pdx.edu>"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
